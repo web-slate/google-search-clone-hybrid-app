@@ -1,2 +1,3 @@
-# google-search-clone-hybrid-app
-Google Search Clone Hybrid App
+# Google Search Clone Hybrid App
+
+## Flutter App
