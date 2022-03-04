@@ -1,16 +1,33 @@
-# app
+# Google Search Clone Flutter App
 
-A new Flutter project.
+## Install Flutter
+Use homebrew to install flutter.
+```
+brew install --cask flutter
+```
 
-## Getting Started
+## Install CocoaPods.
+Use homebrew to install CocoaPods.
+```
+brew install cocoapods
+```
 
-This project is a starting point for a Flutter application.
+## Flutter Development Readiness.
+In order to check readiness for your development. run below command.
+```
+flutter doctor
+```
 
-A few resources to get you started if this is your first Flutter project:
+# Check Installations of Flutter and Dart.
+```
+which flutter dart
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Vscode Extensions.
+1. [Flutter Debugger](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
+1. [Dart Lang Support](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Run the App
+```
+flutter run
+```
