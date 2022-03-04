@@ -22,3 +22,7 @@ open ios/Runner.xcworkspace
 Follow below guidelines  
 https://docs.flutter.dev/get-started/install/macos
 
+## Generate IPA Command
+```
+flutter build ipa --release
+``

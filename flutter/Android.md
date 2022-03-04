@@ -8,3 +8,8 @@ brew install --cask android-studio
 
 ## Create Device
 use Device Manager to add android device.
+
+## Generate APK Command
+```
+flutter build apk --release
+``
