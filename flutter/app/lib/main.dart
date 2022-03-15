@@ -77,7 +77,7 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text(widget.title),
       ),
       body: const WebView(
-        initialUrl: 'https://www.google.com/',
+        initialUrl: 'https://web-slate.github.io/google-search-clone-web/react/',
         javascriptMode: JavascriptMode.unrestricted,
       ),
       floatingActionButton: FloatingActionButton(

@@ -3,6 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>com.apple.security.application-groups</key>
-	<array/>
+	<array>
+		<string>group.googlesearch.clone.app.2022</string>
+	</array>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>$(AppIdentifierPrefix)com.googlesearchapp</string>
+	</array>
 </dict>
 </plist>
